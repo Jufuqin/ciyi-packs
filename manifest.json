@@ -164,11 +164,11 @@
       "name": "全国英语等级考试 PETS-2",
       "tag": "PETS · 2",
       "lang": "en-US",
-      "desc": "官方大纲附录词汇表（约 2000 词） · 2138 词",
+      "desc": "PETS-2 官方大纲附录词汇表",
       "words": 2138,
-      "version": 1,
-      "size": 161266,
-      "sha256": "f015d02a8f0b337aa82b869d9745212a7fa2ca01d16de798c283c914e051c6c8",
+      "version": 2,
+      "size": 161243,
+      "sha256": "74ca537049d9bd9a78ae7f992bd72da05b94d33e738ff5999346d0df50e63794",
       "file": "book-pets2.ciyipack"
     },
     {
@@ -177,11 +177,11 @@
       "name": "全国英语等级考试 PETS-4",
       "tag": "PETS · 4",
       "lang": "en-US",
-      "desc": "官方大纲附录词汇表（约 5500 词） · 5521 词",
+      "desc": "PETS-4 官方大纲附录词汇表",
       "words": 5521,
-      "version": 1,
-      "size": 407335,
-      "sha256": "035c56e0596db571db05a7f86dd29c484ae5c34fea33369ab5c5af5630673e26",
+      "version": 2,
+      "size": 407312,
+      "sha256": "b08384b4cfb78081fcd6ad155effa2c9b505cb50a215176965d2085a9cf363ee",
       "file": "book-pets4.ciyipack"
     },
     {
@@ -190,11 +190,11 @@
       "name": "全国英语等级考试 PETS-5",
       "tag": "PETS · 5",
       "lang": "en-US",
-      "desc": "官方大纲附录词汇表（约 7500 词） · 7448 词",
+      "desc": "PETS-5 官方大纲附录词汇表",
       "words": 7448,
-      "version": 1,
-      "size": 536540,
-      "sha256": "db44386c2e319d51e148fa5d96ef877cbcd5c6b5c117bebdd80b9d4d91b5d564",
+      "version": 2,
+      "size": 536517,
+      "sha256": "8f1912fbd6ece910ce6b48a3b5cfe7f166523d69981688f8aa4fb9b7b469315d",
       "file": "book-pets5.ciyipack"
     },
     {
@@ -203,11 +203,11 @@
       "name": "考研英语（一 / 二）",
       "tag": "考研",
       "lang": "en-US",
-      "desc": "依据 2023 考研英语大纲 5530 词 · 5528 词",
+      "desc": "依据 2023 考研英语大纲（英语一/二通用）",
       "words": 5528,
-      "version": 1,
-      "size": 192356,
-      "sha256": "2f03e6b3a625494727a640bb81938440844bfe01c0785ea7f3bd5219cad677a5",
+      "version": 2,
+      "size": 192360,
+      "sha256": "ba983e6e4464173a12ac72df0fcb632616f3283acae55aa22f936edbacae043b",
       "file": "book-kaoyan.ciyipack"
     },
     {
